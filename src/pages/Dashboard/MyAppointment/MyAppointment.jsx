@@ -31,7 +31,7 @@ const MyAppointment = () => {
         <div className="overflow-x-auto">
           <table className="table w-full">
             <thead className="bg-base-100 text-black">
-              <tr >
+              <tr className="bg-base-200">
                 <th></th>
                 <th>NAME</th>
                 <th>TREATMENT</th>

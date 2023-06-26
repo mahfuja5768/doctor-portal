@@ -39,7 +39,7 @@ const AllUsers = () => {
         <div className="overflow-x-auto">
           <table className="table w-full">
             <thead className="bg-base-100">
-              <tr className="text-black">
+              <tr className="text-black bg-base-200">
                 <th></th>
                 <th>Name</th>
                 <th>Email</th>
